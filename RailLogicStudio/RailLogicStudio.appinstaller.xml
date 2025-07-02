@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://vivekjadon1309.github.io/RailLogicStudio/RailStudioLogic.appinstaller"
+              Version="1.0.49.0"
+              xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+
+  <MainBundle Name="6e4d39a4-f925-457b-aafc-38e6717ad816"
+              Version="1.0.49.0"
+              Publisher="CN=Aryavart Technologies Development Pvt Ltd"
+              Uri="https://vivekjadon1309.github.io/RailLogicStudio/RailwayTrafficSignalingPackager_1.0.49.0_x64.appxbundle"/>
+
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="1" />
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+  </UpdateSettings>
+
+</AppInstaller>
